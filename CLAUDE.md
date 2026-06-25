@@ -49,3 +49,5 @@ Express 5 (CommonJS), runs as a separate Node process. The developer has no know
 ### Database
 - NoSQL Database on Mongo DB.
 - The developer has no knowledge on Mongo DB, the most similar is Firebase.
+
+@.claude/hooks/after-build.md
